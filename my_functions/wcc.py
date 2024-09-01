@@ -6,6 +6,10 @@
 # - calculate_carbon_and_co2_for_trees_and_saplings
 # - print_tree_statistics
 
+import numpy as np  
+import math         
+import pandas as pd 
+
 def tree_statistics(df, percentages, planting_mix, year=1):
     """
     Calculate tree statistics including numbers, height averages, saplings, large trees,

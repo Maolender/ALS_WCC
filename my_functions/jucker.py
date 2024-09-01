@@ -1,4 +1,5 @@
-
+import numpy as np 
+import pandas as pd
 
 
 # Define the main function to calculate all biomass and carbon content statistics
