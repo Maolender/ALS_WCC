@@ -23,3 +23,5 @@ The aim of the developed Python code is to provide a significant step toward int
 - Jenkins, T.A., Mackie, E.D., Matthews, R.W., Miller, G., Randle, T.J. and White, M.E., 2018. FC Woodland Carbon Code: Carbon Assessment Protocol (v2.0). *Forestry Commission, Version 2 (05).*
 
 - Jucker, T., Caspersen, J., Chave, J., Antin, C., Barbier, N., Bongers, F., Dalponte, M., van Ewijk, K.Y., Forrester, D.I., Haeni, M. and Higgins, S.I., 2017. Allometric equations for integrating remote sensing imagery into forest monitoring programmes. *Global Change Biology*, *23*(1), pp.177-190.
+
+- Zörner, J., Dymond, J., Shepherd, J. and Jolly, B., 2018. PyCrown-Fast raster-based individual tree segmentation for LiDAR data. *Landcare Research Ltd.: Lincoln, New Zealand*
