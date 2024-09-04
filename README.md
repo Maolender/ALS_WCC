@@ -1,4 +1,4 @@
-# Pycrown-Shocott-Spring
+# ALS & WCC
 
 Shocott Spring Area Analysis Using PyCrown
 
